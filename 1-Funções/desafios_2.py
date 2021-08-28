@@ -2,7 +2,7 @@
 Desafio 2 Funções
 """
 
-# Desafio 1
+# Desafio Atividades - 1
 def func_one(funcao):
     return funcao
 

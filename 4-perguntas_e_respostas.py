@@ -1,8 +1,8 @@
 perguntas = {
-    'Pergunta 1': {
+    'Pergunta Atividades - 1': {
         'pergunta': 'Quanto é 2 + 2?',
         'respostas': {
-            'a': '1',
+            'a': 'Atividades - 1',
             'b': '4',
             'c': '8'
         },

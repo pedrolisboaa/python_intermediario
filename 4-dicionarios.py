@@ -14,10 +14,10 @@ print(d2)
 d1 = {
     'str': 'Valor',
     123: 'Outro valor',
-    (1, 2, 3, 4): 'Tupla'
+    (Atividades - 1, 2, 3, 4): 'Tupla'
 }
 
-print(d1[(1, 2, 3, 4)])
+print(d1[(Atividades - 1, 2, 3, 4)])
 print(d1.get(123))
 
 d1['chave_nao_existe'] = 'Pedro'

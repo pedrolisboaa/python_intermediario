@@ -9,7 +9,7 @@ def gera():
 
 
 def gera2():
-    variavel = 'valor 1'
+    variavel = 'valor Atividades - 1'
     yield variavel
     variavel = 'valor 2'
     yield variavel

@@ -16,7 +16,7 @@ def funcao(*args, **kwargs):
         print('Nome não encontrado.')
 
 
-lista_1 = [1, 2, 3, 4, 5]
+lista_1 = [Atividades - 1, 2, 3, 4, 5]
 lista_2 = [10, 20, 30, 40, 50]
 
 funcao(*lista_1, *lista_2, nome='Pedro', idade="28")
